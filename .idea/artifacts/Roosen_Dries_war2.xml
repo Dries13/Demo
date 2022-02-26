@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Roosen_Dries:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Roosen_Dries_war2</output-path>
+    <root id="archive" name="Roosen_Dries_war.war">
+      <element id="artifact" artifact-name="Roosen_Dries:war exploded" />
+    </root>
+  </artifact>
+</component>
